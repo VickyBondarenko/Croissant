@@ -1,0 +1,20 @@
+body {
+  background: rgb(197, 164, 227);
+  display: block;
+  margin: 20px;
+}
+h1,
+p,
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: rgb(70, 24, 112);
+}
+.croissants-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
